@@ -32,5 +32,5 @@ I'm a passionate Java Full Stack Developer currently pursuing my Master of Compu
 - **GitHub:** [aniketkale07](https://github.com/aniketkale07)
 
 ### ⚡ Fun Fact
-I love solving complex coding challenges, exploring new tech trends, and contributing to open-source projects!
-Curious about new technology and trends
+- I love solving complex coding challenges, exploring new tech trends, and contributing to open-source projects!
+- Curious about new technology and trends
