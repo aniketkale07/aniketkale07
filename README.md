@@ -17,6 +17,8 @@ I'm a passionate Java Full Stack Developer currently pursuing my Master of Compu
 - **Frontend:** HTML, CSS, JavaScript, TailwindCSS, Thymeleaf
 - **Backend:** Java (Spring Boot)
 - **Database:**  MySQL
+-  **[Smart Contact Manager](https://github.com/aniketkale07/smart-contact-manager):**
+
   
 ### 🌱 Currently Learning
 - Data Structure using Java
