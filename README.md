@@ -26,7 +26,7 @@ I'm a passionate Java Full Stack Developer currently pursuing my Master of Compu
 - CI/CD pipelines and DevOps practices
 
 ### 📫 Let's Connect
-- **Email:** kaleaniket042@
+- **Email:** kaleaniket042@gmail.com
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/aniket-kale09/)
 - **GitHub:** [Your GitHub](https://github.com/aniketkale07)
 
