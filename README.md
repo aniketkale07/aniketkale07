@@ -1,4 +1,4 @@
-# Hi there, I'm [Aniket  Kale] 👋
+# Hi there, I'm Aniket  Kale 👋
 
 ### 💻 About Me
 I'm a passionate Java Full Stack Developer currently pursuing my Master of Computer Applications (MCA). I specialize in building scalable, secure, and efficient applications using modern web technologies.
