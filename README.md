@@ -28,8 +28,8 @@ I'm a passionate Java Full Stack Developer currently pursuing my Master of Compu
 
 ### 📫 Let's Connect
 - **Email:** kaleaniket042@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/aniket-kale09/)
-- **GitHub:** [Your GitHub](https://github.com/aniketkale07)
+- **LinkedIn:** [aniket-kale09](https://www.linkedin.com/in/aniket-kale09/)
+- **GitHub:** [aniketkale07](https://github.com/aniketkale07)
 
 ### ⚡ Fun Fact
 I love solving complex coding challenges, exploring new tech trends, and contributing to open-source projects!
