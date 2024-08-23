@@ -12,8 +12,7 @@ I'm a passionate Java Full Stack Developer currently pursuing my Master of Compu
 ### 🔭 Projects
  - Smart Contact Manager: A comprehensive contact management application featuring Google, Facebook, and GitHub login integrations. Built with Spring Boot MVC and Tailwind CSS.
 
-- Description: The Smart Contact Manager is a robust web application designed to manage and organize contacts efficiently. It leverages the power of Spring Security and OAuth2User to - - - offer secure authentication via popular platforms like Google, Facebook, and GitHub. The application’s architecture follows the MVC pattern, ensuring a clean separation of concerns and 
-- scalable development.
+- Description: The Smart Contact Manager is a robust web application designed to manage and organize contacts efficiently. It leverages the power of Spring Security and OAuth2User to user offer secure authentication via popular platforms like Google, Facebook, and GitHub. The application’s architecture follows the MVC pattern, ensuring a clean separation of concerns and scalable development.
 
 - **Frontend:** HTML, CSS, JavaScript, TailwindCSS, Thymeleaf
 - **Backend:** Java (Spring Boot)
