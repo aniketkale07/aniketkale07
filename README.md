@@ -23,6 +23,7 @@ I'm a passionate Java Full Stack Developer currently pursuing my Master of Compu
 ### 🌱 Currently Learning
 - Data Structure using Java
 - Microservices architecture with Spring Cloud
+### 🌱 Currently Learning
 - Advanced frontend development with React
 - CI/CD pipelines and DevOps practices
 
