@@ -5,9 +5,10 @@ I'm a passionate Java Full Stack Developer currently pursuing my Master of Compu
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Java, JavaScript, SQL,HTML,CSS
-- **Frameworks:** Spring Boot, Hibernate, Tailwind CSS
-- **Tools:** Git, Maven, Eclipse, VS Code
-- **Databases:** MySQL 
+- **Frameworks:** Spring Boot, Hibernate, Bootstrap, Tailwind CSS
+- **Tools:** Git, GIthub, Eclipse, VS Code
+- **Databases:** MySQL, SQL
+   
 
 ### 🔭 Projects
  - Smart Contact Manager: A comprehensive contact management application featuring Google, Facebook, and GitHub login integrations. Built with Spring Boot MVC and Tailwind CSS.
@@ -17,7 +18,7 @@ I'm a passionate Java Full Stack Developer currently pursuing my Master of Compu
 - **Frontend:** HTML, CSS, JavaScript, TailwindCSS, Thymeleaf
 - **Backend:** Java (Spring Boot)
 - **Database:**  MySQL
--  **[Smart Contact Manager](https://github.com/aniketkale07/smart-contact-manager):**
+-  **[Smart Contact Manager](https://github.com/aniketkale07/contact-manager):**
 
   
 ### 🌱 Currently Learning
