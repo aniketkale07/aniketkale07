@@ -85,8 +85,3 @@ CSS3
 
 -------------------------------------------------------------------------------------
 
-### 🔥 **How This Helps Your Portfolio?**  
-✅ **Highlights React.js skills & projects**  
-✅ **Structured for better readability & recruiter-friendly**  
-✅ **SEO optimized for GitHub & LinkedIn visibility**  
-
