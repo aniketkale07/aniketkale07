@@ -39,7 +39,7 @@ CSS3
 ✅ **Tech Stack:**  
 - **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js, Thymeleaf  
 - **Backend:** Java (Spring Boot)  
-- **Authentication:** Spring Security + OAuth2 (Google, Facebook, GitHub)  
+- **Authentication:** Spring Security + OAuth2 (Google, GitHub)  
 - **Database:** MySQL  
 
 📌 **Features:**  
@@ -62,14 +62,15 @@ CSS3
 ## **📜 Certifications**  
 🎓 **Java Full Stack Development**  
 🎓 **AI Python Programming**  
-🎓 **React.js & Modern Frontend Development**  
 
 -------------------------------------------------------------------------------------
 
 ## **📫 Let's Connect!**  
+📧 **Contact :** +91 8623823184  
 📧 **Email:** kaleaniket042@gmail.com  
 🔗 **LinkedIn:** [aniket-kale09](https://www.linkedin.com/in/aniket-kale09/)  
 💻 **GitHub:** [aniketkale07](https://github.com/aniketkale07)  
+💻 **Instagram:** [aniket_kale_09](https://www.instagram.com/aniket_kale_09/)  
 
 -------------------------------------------------------------------------------------
 
