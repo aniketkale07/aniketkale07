@@ -1,38 +1,92 @@
-# Hi there, I'm Aniket  Kale 👋
+# **👋 Hi there, I'm Aniket Kale!**  
+### 🚀 Java Full Stack Developer | React.js Developer | MCA Graduate  
 
-### 💻 About Me
-I'm a passionate Java Full Stack Developer currently pursuing my Master of Computer Applications (MCA). I specialize in building scalable, secure, and efficient applications using modern web technologies.
+I'm a **passionate Java Full Stack & React.js Developer** currently pursuing my **Master of Computer Applications (MCA)**. I specialize in building **scalable, secure, and high-performance web applications** using modern technologies.  
 
-### 🛠️ Technologies & Tools
-- **Languages:** Java, JavaScript, SQL,HTML,CSS
-- **Frameworks:** Spring Boot, Hibernate, Bootstrap, Tailwind CSS
-- **Tools:** Git, GIthub, Eclipse, VS Code
-- **Databases:** MySQL, SQL
-   
+-------------------------------------------------------------------------------------
 
-### 🔭 Projects
- - Smart Contact Manager: A comprehensive contact management application featuring Google, Facebook, and GitHub login integrations. Built with Spring Boot MVC and Tailwind CSS.
+## **🛠️ Tech Stack & Tools**  
+### **👨‍💻 Languages:**  
+Java
+JavaScript
+SQL
+HTML5
+CSS3
 
-- Description: The Smart Contact Manager is a robust web application designed to manage and organize contacts efficiently. It leverages the power of Spring Security and OAuth2User to user offer secure authentication via popular platforms like Google, Facebook, and GitHub. The application’s architecture follows the MVC pattern, ensuring a clean separation of concerns and scalable development.
+### **📦 Frameworks & Libraries:**  
+- **Backend:** Spring Boot, Hibernate  
+- **Frontend:** React.js, Bootstrap, Tailwind CSS, Thymeleaf  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, Eclipse, VS Code  
 
-- **Frontend:** HTML, CSS, JavaScript, TailwindCSS, Thymeleaf
-- **Backend:** Java (Spring Boot)
-- **Database:**  MySQL
--  **[Smart Contact Manager](https://github.com/aniketkale07/contact-manager):**
+-------------------------------------------------------------------------------------
 
-  
-### 🌱 Currently Learning
-- Data Structure using Java
-- Microservices architecture with Spring Cloud
-### 🌱 Currently Learning
-- Advanced frontend development with React
-- CI/CD pipelines and DevOps practices
+## **💡 Featured Projects**  
+### **🍔 React.js Food Ordering App**  
+🚀 **Description:** A fully responsive and dynamic **food ordering web app** built using **React.js**.  
+✅ **Features:**  
+✔ User-friendly UI with smooth navigation (**React Router**)  
+✔ Responsive design using **Bootstrap**  
+✔ Interactive shopping cart & checkout  
 
-### 📫 Let's Connect
-- **Email:** kaleaniket042@gmail.com
-- **LinkedIn:** [aniket-kale09](https://www.linkedin.com/in/aniket-kale09/)
-- **GitHub:** [aniketkale07](https://github.com/aniketkale07)
+🔗 **GitHub Repo:** [Food Ordering App](https://github.com/aniketkale07/Food-App)  
 
-### ⚡ Fun Fact
-- I love solving complex coding challenges, exploring new tech trends, and contributing to open-source projects!
-- Curious about new technology and trends
+-------------------------------------------------------------------------------------
+
+- Smart Contact Manager**  
+🔹 **A secure and scalable Contact Management System with OAuth2 authentication.**  
+
+✅ **Tech Stack:**  
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js, Thymeleaf  
+- **Backend:** Java (Spring Boot)  
+- **Authentication:** Spring Security + OAuth2 (Google, Facebook, GitHub)  
+- **Database:** MySQL  
+
+📌 **Features:**  
+✔ Secure login using **Google, Facebook & GitHub OAuth2**  
+✔ Add, edit, and manage contacts seamlessly  
+✔ Follows **MVC architecture** for better scalability  
+
+🔗 **GitHub Repo:** [Smart Contact Manager](https://github.com/aniketkale07/contact-manager)  
+
+-------------------------------------------------------------------------------------
+
+## **📚 Currently Learning**  
+✅ **Advanced Data Structures & Algorithms in Java**  
+✅ **Microservices with Spring Cloud**  
+✅ **CI/CD Pipelines & DevOps (Jenkins, Docker, Kubernetes)**  
+✅ **Advanced React.js Development (Redux, Context API, Performance Optimization)**  
+
+-------------------------------------------------------------------------------------
+
+## **📜 Certifications**  
+🎓 **Java Full Stack Development**  
+🎓 **AI Python Programming**  
+🎓 **React.js & Modern Frontend Development**  
+
+-------------------------------------------------------------------------------------
+
+## **📫 Let's Connect!**  
+📧 **Email:** kaleaniket042@gmail.com  
+🔗 **LinkedIn:** [aniket-kale09](https://www.linkedin.com/in/aniket-kale09/)  
+💻 **GitHub:** [aniketkale07](https://github.com/aniketkale07)  
+
+-------------------------------------------------------------------------------------
+
+## **⚡ Fun Facts About Me**  
+✔ I love **solving coding challenges** and **contributing to open-source projects**.  
+✔ Always **curious about new technologies & trends** in software development.  
+
+-------------------------------------------------------------------------------------
+
+### **🚀 Open to Opportunities!**  
+🔹 I'm currently looking for opportunities in **Java Full Stack Development, React.js Development, Software Engineering, and Backend Development**.  
+📩 **Feel free to connect with me for collaborations, job opportunities, or tech discussions!**  
+
+-------------------------------------------------------------------------------------
+
+### 🔥 **How This Helps Your Portfolio?**  
+✅ **Highlights React.js skills & projects**  
+✅ **Structured for better readability & recruiter-friendly**  
+✅ **SEO optimized for GitHub & LinkedIn visibility**  
+
