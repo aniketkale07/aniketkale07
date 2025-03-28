@@ -81,7 +81,7 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 📧 **Email:** [kaleaniket042@gmail.com](mailto:kaleaniket042@gmail.com)  
 🔗 **LinkedIn:** [Aniket Kale](https://www.linkedin.com/in/aniket-kale09/)  
 💻 **GitHub:** [aniketkale07](https://github.com/aniketkale07)  
-📷 **Instagram:** [aniket_kale_09](https://www.instagram.com/aniket_kale_09/)  
+📷 **Instagram:** [aniket_kale_09](https://www.instagram.com/aniket_kale_009/)  
 
 ---
 
