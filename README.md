@@ -5,8 +5,7 @@
 I'm a **passionate Java Full Stack & React.js Developer** currently pursuing my **Master of Computer Applications (MCA)**.  
 I specialize in building **scalable, secure, and high-performance web applications** using modern technologies.  
 
---------------------------------------------------------------------------------------
-
+---
 ## 📌 Featured Projects  
 
 ### 🤖 AI-Powered Chatbot for Customer Support  
@@ -17,8 +16,7 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 ✅ Integrated Rasa/OpenAI API for automated responses  
 ✅ Stored chat history in MySQL for future analysis  
 
---------------------------------------------------------------------------------------
-
+---
 ### 🍽️ React Food-App  
 🔗 **GitHub:** [Food-App](https://github.com/aniketkale07/Food-App)  
 📌 **Tech Stack:** React.js, Bootstrap  
@@ -27,8 +25,7 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 ✅ Navigation handled with React Router  
 ✅ Responsive layout using Bootstrap  
 
---------------------------------------------------------------------------------------
-
+--
 ### 📞 Smart Contact Manager  
 🔗 **GitHub:** [Smart Contact Manager](https://github.com/aniketkale07/contact-manager)  
 📌 **Tech Stack:** Java, Spring Boot, Thymeleaf, Tailwind CSS, MySQL  
@@ -37,7 +34,7 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 ✅ OAuth2 login with Google & GitHub  
 ✅ Encrypted sensitive information such as passwords  
 
---------------------------------------------------------------------------------------
+--
 
 ### 🎓 Coaching Class Management System  
 🔗 **GitHub:** [Coaching Class Management System](https://github.com/aniketkale07/projects/tree/main/Coaching%20Class%20Management%20System)  
@@ -47,7 +44,7 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 ✅ Manages student admissions, faculty, fees & scheduling  
 ✅ Spring Security for authentication  
 
---------------------------------------------------------------------------------------
+---
 
 ## 🛠️ Tech Stack & Tools  
 
@@ -64,7 +61,7 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, Eclipse, VS Code  
 
---------------------------------------------------------------------------------------
+---
 
 ## 📚 Currently Learning  
 ✅ **Advanced Data Structures & Algorithms in Java**  
@@ -72,13 +69,13 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 ✅ **CI/CD Pipelines & DevOps (Jenkins, Docker, Kubernetes)**  
 ✅ **Advanced React.js Development (Redux, Context API, Performance Optimization)**  
 
---------------------------------------------------------------------------------------
+---
 
 ## 📜 Certifications  
 🎓 **Java Full Stack Development**  
 🎓 **AI Python Programming**  
 
---------------------------------------------------------------------------------------
+---
 
 ## 📫 Let's Connect!  
 📧 **Email:** [kaleaniket042@gmail.com](mailto:kaleaniket042@gmail.com)  
@@ -86,7 +83,7 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 💻 **GitHub:** [aniketkale07](https://github.com/aniketkale07)  
 📷 **Instagram:** [aniket_kale_09](https://www.instagram.com/aniket_kale_09/)  
 
---------------------------------------------------------------------------------------
+---
 
 ## 🚀 Open to Opportunities!  
 🔹 I'm currently looking for opportunities in **Java Full Stack Development, React.js Development, Software Engineering, and Backend Development**.  
