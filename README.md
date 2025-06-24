@@ -1,11 +1,12 @@
 # 👋 Hi there, I'm Aniket Kale!  
 
-## 🚀 Java Full Stack Developer | React.js Developer | MCA Graduate  
+## 🚀 Java Full Stack Developer | MERN Stack Developer | React.js Developer | MCA Graduate  
 
-I'm a **passionate Java Full Stack & React.js Developer** currently pursuing my **Master of Computer Applications (MCA)**.  
-I specialize in building **scalable, secure, and high-performance web applications** using modern technologies.  
+I'm a **passionate Java Full Stack & MERN Stack Developer** currently pursuing my **Master of Computer Applications (MCA)**.  
+I specialize in building **scalable, secure, and high-performance web applications** using both **Java (Spring Boot)** and **MERN (MongoDB, Express.js, React, Node.js)** technologies.  
 
 ---
+
 ## 📌 Featured Projects  
 
 ### 🤖 AI-Powered Chatbot for Customer Support  
@@ -25,7 +26,7 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 ✅ Navigation handled with React Router  
 ✅ Responsive layout using Bootstrap  
 
---
+---
 ### 📞 Smart Contact Manager  
 🔗 **GitHub:** [Smart Contact Manager](https://github.com/aniketkale07/contact-manager)  
 📌 **Tech Stack:** Java, Spring Boot, Thymeleaf, Tailwind CSS, MySQL  
@@ -34,8 +35,7 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 ✅ OAuth2 login with Google & GitHub  
 ✅ Encrypted sensitive information such as passwords  
 
---
-
+---
 ### 🎓 Coaching Class Management System  
 🔗 **GitHub:** [Coaching Class Management System](https://github.com/aniketkale07/projects/tree/main/Coaching%20Class%20Management%20System)  
 📌 **Tech Stack:** Java, AWT  
@@ -56,10 +56,10 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 - CSS3  
 
 ### 📦 Frameworks & Libraries  
-- **Backend:** Spring Boot, Hibernate  
+- **Backend:** Spring Boot, Hibernate, Node.js, Express.js  
 - **Frontend:** React.js, Bootstrap, Tailwind CSS, Thymeleaf  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, Eclipse, VS Code  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, Eclipse, VS Code, Docker  
 
 ---
 
@@ -68,6 +68,7 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 ✅ **Microservices with Spring Cloud**  
 ✅ **CI/CD Pipelines & DevOps (Jenkins, Docker, Kubernetes)**  
 ✅ **Advanced React.js Development (Redux, Context API, Performance Optimization)**  
+✅ **MERN Stack (MongoDB, Express, React, Node.js)**  
 
 ---
 
@@ -86,5 +87,5 @@ I specialize in building **scalable, secure, and high-performance web applicatio
 ---
 
 ## 🚀 Open to Opportunities!  
-🔹 I'm currently looking for opportunities in **Java Full Stack Development, React.js Development, Software Engineering, and Backend Development**.  
-📩 **Feel free to connect with me for collaborations, job opportunities, or tech discussions!**  
+🔹 I'm currently looking for opportunities in **Java Full Stack Development, MERN Stack Development, React.js Development, and Backend Engineering**.  
+📩 **Feel free to connect with me for collaborations, job opportunities, or tech discussions!**
